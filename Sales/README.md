@@ -1,4 +1,4 @@
-# 🛒 Gold Sales Data Analysis
+# 🛒 Sales Analysis
 
 This project performs advanced SQL-based analysis on a simulated data warehouse composed of sales, product, and customer data. The database follows a dimensional model, using **fact** and **dimension** tables:
 - `gold_fact_sales`
