@@ -1,5 +1,9 @@
 # Layoffs Analysis
 
+<p align="center">
+  <img src="https://github.com/meilianazalianti/SQL-Projects/blob/main/Layoffs/Dashboard_Layoffs.png?raw=true" alt="Dashboard Coffee" width="600"/>
+</p>
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
